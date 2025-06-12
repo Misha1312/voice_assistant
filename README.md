@@ -15,3 +15,6 @@
 открой dota,
 открой блокнот,
 открой браузер
+
+Библиотеки
+pip install speechrecognition pyttsx3 pyaudio pyautogui pystray pillow
